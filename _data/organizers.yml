@@ -1,0 +1,17 @@
+nikhil:
+  name: "Nikhil Garg"
+  url: "gargnikhil.com"
+  affiliation: "Cornell Tech"
+  # img: "ioana.jpg"
+
+vijay:
+  name: "Vijay Kamble"
+  url: "https://sites.google.com/site/vijaysukumarkamble/"
+  affiliation: "University of Illinois at Chicago"
+  # img: "ioana.jpg"
+
+vahideh:
+  name: "Vahideh Manshadi"
+  url: "https://vahideh-manshadi.com/"
+  affiliation: "Yale"
+  # img: "ioana.jpg"
