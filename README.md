@@ -1,1 +1,1 @@
-# https://gargnikhil.com/operationspeople21//
+# https://operationspeople21.github.io
