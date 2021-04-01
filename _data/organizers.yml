@@ -1,17 +1,17 @@
 nikhil:
-  name: "Nikhil Garg"
+  name: "Nikhil Garg*"
   url: "gargnikhil.com"
   affiliation: "Cornell Tech"
-  # img: "ioana.jpg"
+  img: "nikhil.jpg"
 
 vijay:
   name: "Vijay Kamble"
   url: "https://sites.google.com/site/vijaysukumarkamble/"
   affiliation: "University of Illinois at Chicago"
-  # img: "ioana.jpg"
+  img: "vijay.jpg"
 
 vahideh:
   name: "Vahideh Manshadi"
   url: "https://vahideh-manshadi.com/"
   affiliation: "Yale"
-  # img: "ioana.jpg"
+  img: "vahideh.png"
