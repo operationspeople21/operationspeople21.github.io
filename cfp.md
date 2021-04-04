@@ -6,7 +6,7 @@ use-site-title: true
 
 # Call for Papers
 
-Operations has traditionally considered decision-making (including queuing, scheduling, pricing, routing) from the perspective of a single firm. However, in several recent socio-economic developments -- for example, modern online platforms, decentralized energy generation, and decentralized ledgers -- the requisite decisions are instead distributed among many independent people. While these crowd-based operations disrupt centrally controlled practices, they empower individuals and enable new applications. Whether intermediated by a centralized platform or wholly decentralized, the operations of these systems are complicated by the underlying complex network structures, the challenges of large-scale alignment of incentives, and of learning from data. Moreover, the decentralized and people-centric nature of processes on these platforms entails working with “indirect” operational levers such as recommendations, signaling, information design, and user interface design. They further pose additional constraints pertaining to fairness and ethics. We aim to bring together researchers from across operations management, computer science, and economics to explore new challenges and research directions of such crowd-based systems.
+Operations has traditionally considered decision-making (including queuing, scheduling, pricing, routing) from the perspective of a single firm. However, in several recent socio-economic developments---for example, modern online platforms, decentralized energy generation, and decentralized ledgers---the requisite decisions are instead distributed among many independent people. While these crowd-based operations disrupt centrally controlled practices, they empower individuals and enable new applications. Whether intermediated by a centralized platform or wholly decentralized, the operations of these systems are complicated by the underlying complex network structures, the challenges of large-scale alignment of incentives, and of learning from data. Moreover, the decentralized and people-centric nature of processes on these platforms entails working with “indirect” operational levers such as recommendations, signaling, information design, and user interface design. They further pose additional constraints pertaining to fairness and ethics. We aim to bring together researchers from across operations management, computer science, and economics to explore new challenges and research directions of such crowd-based systems.
 
 Potential areas include:
 
@@ -19,6 +19,10 @@ Potential areas include:
 <li>Operational challenges in sharing economy and online labor platforms</li>
 <li>Achieving operational goals through information design, recommendations, and other new levers</li>
 </ul>
+
+Papers will be judged on relevance to the workshop theme, scientific merit, and potential for impact. We especially encourage: applied papers describing deployed systems, works in progress, papers about new application domains, and student-led papers. We will accept papers that have already appeared in other venues, though may hold such works to a higher bar for relevance and novelty.
+
+Most papers not accepted to a speaking slot will be invited to present at the poster session as long as they are relevant to the workshop theme.
 
 
 <!-- These topics are intended to provide examples of questions in line with the workshop, not to provide an exhaustive list. We solicit papers across the full range from computation to applications from researchers in either field who are interested in engaging with an interdisciplinary community.
@@ -35,5 +39,7 @@ Papers should be at most **4 pages** in length, in ICLR format. Unlimited extra 
 
 
 ### Submission Requirements
+
+TBA
 
 <!-- Papers should be at most **4 pages** in length, in ICLR format, not counting references. We welcome research which is in progress, submitted, or recently published (submissions already accepted in an archival venue should provide a link to the full paper). The workshop will not have an archival proceedings, but accepted papers will be posted on the website. We also welcome position papers which propose new questions or argue for a new perspective on this emerging field. Submissions will be considered for both posters and full-length contributed talks. Papers should be submitted on [easychair](https://easychair.org/conferences/?conf=iclrai4ph). -->
