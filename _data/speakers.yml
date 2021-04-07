@@ -1,6 +1,13 @@
-template:
-  name: "template"
-  url: "template"
-  affiliation: "template"
-  img: "template.png"
-  bio: "template"
+Sean:
+  name: "Sean Meyn"
+  url: "http://www.meyn.ece.ufl.edu/"
+  affiliation: "University of Florida"
+  img: "sean.png"
+  bio: "Bio"
+
+Karen:
+  name: "Karen Smilowitz"
+  url: "http://users.iems.northwestern.edu/~smilo/"
+  affiliation: "Northwestern University"
+  img: "karen.jpg"
+  bio: "Bio"

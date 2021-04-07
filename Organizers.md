@@ -22,4 +22,8 @@ use-site-title: true
 
 # Program Committee
 
-TBD
+<ul>
+{% for thing in site.data.pc.pc %}
+<li>{{thing}}</li>
+{% endfor %}
+</ul>

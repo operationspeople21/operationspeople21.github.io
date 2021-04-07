@@ -20,9 +20,9 @@ Potential areas include:
 <li>Achieving operational goals through information design, recommendations, and other new levers</li>
 </ul>
 
-Papers will be judged on relevance to the workshop theme, scientific merit, and potential for impact. We especially encourage: applied papers describing deployed systems, works in progress, papers about new application domains, and student-led papers. We will accept papers that have already appeared in other venues, though may hold such works to a higher bar for relevance and novelty.
+Papers will be judged on relevance to the workshop theme, scientific merit, and potential for impact. We especially encourage: applied papers describing deployed systems, works in progress, papers about new application domains, and student-led papers. We will accept papers that have already appeared in other venues, though may hold such works to a higher bar for relevance.
 
-Most papers not accepted to a speaking slot will be invited to present at the poster session as long as they are relevant to the workshop theme.
+Submissions will be either accepted as an oral presentation, or invited to present at our poster session.
 
 
 <!-- These topics are intended to provide examples of questions in line with the workshop, not to provide an exhaustive list. We solicit papers across the full range from computation to applications from researchers in either field who are interested in engaging with an interdisciplinary community.
