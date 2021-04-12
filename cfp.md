@@ -24,6 +24,7 @@ Papers will be judged on relevance to the workshop theme, scientific merit, and 
 
 Submissions will be either accepted as an oral presentation, or invited to present at our poster session.
 
+**Whether or not EC has an in-person component, this workshop will be completely virtual**. 
 
 <!-- These topics are intended to provide examples of questions in line with the workshop, not to provide an exhaustive list. We solicit papers across the full range from computation to applications from researchers in either field who are interested in engaging with an interdisciplinary community.
 
