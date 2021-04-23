@@ -20,11 +20,11 @@ Potential areas include:
 <li>Achieving operational goals through information design, recommendations, and other new levers</li>
 </ul>
 
-Papers will be judged on relevance to the workshop theme, scientific merit, and potential for impact. We especially encourage: applied papers describing deployed systems, works in progress, papers about new application domains, and student-led papers. We will accept papers that have already appeared in other venues, though may hold such works to a higher bar for relevance.
+Papers will be judged on relevance to the workshop theme, scientific merit, and potential for impact. We especially encourage: applied papers describing deployed systems, works in progress, papers about new application domains, and student-led papers. We also welcome position papers proposing new perspectives or questions related to the workshop themes. We will accept papers that have already appeared in other venues, though may hold such works to a higher bar for relevance.
 
 Submissions will be either accepted as an oral presentation, or invited to present at our poster session.
 
-**Whether or not EC has an in-person component, this workshop will be completely virtual**. 
+**Whether or not EC has an in-person component, this workshop will be completely virtual**.
 
 <!-- These topics are intended to provide examples of questions in line with the workshop, not to provide an exhaustive list. We solicit papers across the full range from computation to applications from researchers in either field who are interested in engaging with an interdisciplinary community.
 
@@ -41,6 +41,4 @@ Papers should be at most **4 pages** in length, in ICLR format. Unlimited extra 
 
 ### Submission Requirements
 
-TBA
-
-<!-- Papers should be at most **4 pages** in length, in ICLR format, not counting references. We welcome research which is in progress, submitted, or recently published (submissions already accepted in an archival venue should provide a link to the full paper). The workshop will not have an archival proceedings, but accepted papers will be posted on the website. We also welcome position papers which propose new questions or argue for a new perspective on this emerging field. Submissions will be considered for both posters and full-length contributed talks. Papers should be submitted on [easychair](https://easychair.org/conferences/?conf=iclrai4ph). -->
+Papers should be submitted on [easychair](https://easychair.org/conferences?conf=operationspeople21). There are no formatting requirements or page limits, but we will instruct reviewers that they do not have to read past the first 8 pages. Please ensure that relevance to the workshop theme, scientific merit, and any potential for impact are evident in the first 8 pages.
