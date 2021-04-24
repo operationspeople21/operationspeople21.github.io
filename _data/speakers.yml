@@ -1,13 +1,14 @@
-Sean:
-  name: "Sean Meyn"
-  url: "http://www.meyn.ece.ufl.edu/"
-  affiliation: "University of Florida"
-  img: "sean.png"
-  bio: ""
-
 Karen:
   name: "Karen Smilowitz"
   url: "http://users.iems.northwestern.edu/~smilo/"
   affiliation: "Northwestern University"
   img: "karen.jpg"
   bio: "Dr. Karen Smilowitz is the James N. and Margie M. Krebs Professor in Industrial Engineering and Management Science at Northwestern University, with a joint appointment in the Operations group at the Kellogg School of Management.  Dr. Smilowitz is an expert in modeling and solution approaches for logistics and transportation systems in both commercial and non-profit applications, working with transportation providers, logistics specialists and a range of non-profit organizations.  She has been instrumental in promoting the use of operations research within the humanitarian and nonproﬁt sectors through the Woodrow Wilson International Center for Scholars, the American Association for the Advancement of Science, and the National Academy of Engineering, as well as various media outlets.  Dr. Smilowitz is Editor-in-chief of the INFORMS journal, Transportation Science.   Dr. Smilowitz received the Award for the Advancement of Women in OR/MS from INFORMS and led the winning team in the INFORMS Innovative Applications of Analytics Award."
+
+
+Sean:
+  name: "Sean Meyn"
+  url: "http://www.meyn.ece.ufl.edu/"
+  affiliation: "University of Florida"
+  img: "sean.png"
+  bio: ""
