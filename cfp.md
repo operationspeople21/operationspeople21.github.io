@@ -41,4 +41,4 @@ Papers should be at most **4 pages** in length, in ICLR format. Unlimited extra 
 
 ### Submission Requirements
 
-Papers should be submitted on [easychair](https://easychair.org/conferences?conf=operationspeople21). There are no formatting requirements or page limits, but we will instruct reviewers that they do not have to read past the first 8 pages. Please ensure that relevance to the workshop theme, scientific merit, and any potential for impact are evident in the first 8 pages. Submitted pdfs should be fully anonymized. 
+Papers should be submitted on [easychair](https://easychair.org/conferences?conf=operationspeople21). There are no formatting requirements or page limits, except that papers be in single column format. However, we will instruct reviewers that they do not have to read past the first 8 pages. Please ensure that relevance to the workshop theme, scientific merit, and any potential for impact are evident in the first 8 pages. Submitted pdfs should be fully anonymized. 

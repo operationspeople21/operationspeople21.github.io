@@ -11,3 +11,10 @@ karenz:
   affiliation: "MIT Sloan"
   img: "karenz.jpg"
   bio: "Y. Karen Zheng is a Sloan School Career Development Professor and an Associate Professor of Operations Management at the MIT Sloan School of Management. Karen’s research studies operations and supply chain management problems with a behavior-centric, data-driven, field-based approach. Her research addresses four general topics: (I) the design and impact of digital platforms to enable efficient physical supply chains in resource constrained environments, (II) the role of information transparency in driving positive behaviors, especially for environmental and social responsibility, (III) the impact of a supply chain’s structural properties on the behaviors of various stakeholders, and (IV) the impact of consumer behaviors on retail operations. In addressing these questions, Karen collaborates with both public and private partners on the ground to ensure that her research leads to positive impacts to society and practice. Karen’s research is recognized by various awards, including the U.S. National Science Foundation CAREER Award, the Management Science Best Paper Award in Operations Management, the MSOM Responsible Research Award, and the INFORMS Doing Good with Good OR Award. Karen received her PhD degree from Stanford University."
+
+dominic:
+  name: "Dominic Coey"
+  url: "https://dominiccoey.github.io/"
+  affiliation: "Facebook"
+  img: "dominic.jpg"
+  bio: ""
