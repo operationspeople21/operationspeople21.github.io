@@ -27,8 +27,8 @@ Please see the [call](/cfp/) for submission information.
 
 
 | ------------- |:-------------:|
-| **Submission** | May 14, 2021, **Anywhere on Earth**   |
-| **Notification** | June 21, 2021 |
+| **Submission** | May 21, 2021, **Anywhere on Earth**   |
+| **Notification** | June 28, 2021 |
 | **Workshop** | July 23, 2021 |
 
 
