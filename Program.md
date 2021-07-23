@@ -6,6 +6,8 @@ use-site-title: true
 
 # Program
 
+The workshop is accessible through EC's Gather environment, details [here](https://ec21.sigecom.org/participation/venue/). We are in Room B.  
+
 All times PT. Timings may be updated. During the breaks we will host informal chats on Gather.
 
 | ------------- |:-------------:|
